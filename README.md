@@ -1,4 +1,7 @@
 # BeatJus-site
+Visit the site at : https://beatjus.com/
+![image](https://user-images.githubusercontent.com/81537476/171308039-0c603e91-6b86-4ea5-834c-7793a0b39a99.png)
+
 # Description
 Beatjus is a portfolio website designed for a videographer to display his best work. The site was created using HTML, and Css. This site links to external video sources through vimeo and allows clients to view videos, contact the website owner directly, and view all of their media accounts. 
 
